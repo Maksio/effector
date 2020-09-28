@@ -7,7 +7,7 @@ title: Installation
 npm install --save effector
 ```
 
-### For deno
+### For demo
 
 Import `effector.mjs` from any CDN
 
